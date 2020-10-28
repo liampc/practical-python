@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/kathliacarlos/Documents/Programming/python/practical-python/env/bin/python3",
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true
+}
